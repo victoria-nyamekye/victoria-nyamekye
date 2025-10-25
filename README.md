@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Victoria!
 
-<!--
-**victoria-nyamekye/victoria-nyamekye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my curated repository of cybersecurity projects and resources, built from real-world experience as a SOC Analyst.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+---
+
+## 👨‍💻 Featured Projects
+- ✉️ **[Email Header Analysis]()**
+- 🛡️ **[Vulnerability Assessment]()**
+---
+
+## 📄 Certifications & Education
+- [Cybersecurity Analyst Program – 10Alytics]()
+- **CompTIA Security + – In Progress**
+- **GIAC GCIA – Planned**
+
+---
+
+## 🤝 Let's Connect!
+Open to mentorship, collaboration, and new opportunities.
+
+- 💼 [LinkedIn]()  
+- 🐙 [GitHub]()  
+- ✉️ [Email](mailto:victorianyamekye98@gmail.com)
