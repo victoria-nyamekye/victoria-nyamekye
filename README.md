@@ -18,10 +18,11 @@ Intelligence Development]()**
 
 ---
 
-## 📄 Certifications & Education
+## Education & Certifications
+- **Kwame Nkrumah University of Science and Technology**
 - [Cybersecurity Analyst Program – 10Alytics]()
-- **CompTIA Security + – In Progress**
-- **GIAC GCIA – Planned**
+- **CompTIA Security Plus – In Progress**
+- **Blue Team Level 1 - Planned**
 
 ---
 
