@@ -26,9 +26,9 @@ Intelligence Development]()**
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 Open to mentorship, collaboration, and new opportunities.
 
-- 💼 [LinkedIn](www.linkedin.com/in/victoria-nyamekye)  
-- 🐙 [GitHub](https://github.com/victoria-nyamekye/victoria-nyamekye.git)  
-- ✉️ [Email](mailto:victorianyamekye98@gmail.com)
+-  [LinkedIn](www.linkedin.com/in/victoria-nyamekye)  
+-  [GitHub](https://github.com/victoria-nyamekye/victoria-nyamekye.git)  
+-  [Email](mailto:victorianyamekye98@gmail.com)
