@@ -1,16 +1,21 @@
-# 👋 Hi, I'm Victoria!
+ # Hi, I'm Victoria!
 
 Welcome to my curated repository of cybersecurity projects and resources, built from real-world experience as a SOC Analyst.
 
 
 
 
-
 ---
 
-## 👨‍💻 Featured Projects
-- ✉️ **[Email Header Analysis]()**
-- 🛡️ **[Vulnerability Assessment]()**
+##  Featured Projects
+- **[Phishing Email Analysis and Response]()**
+- **[Vulnerability Assessment
+and Patch Automation]()**
+- **[Cyber Threat Intelligence
+and Malware Detection]()**
+- **[Passive Reconnaissance for Threat
+Intelligence Development]()**
+
 ---
 
 ## 📄 Certifications & Education
