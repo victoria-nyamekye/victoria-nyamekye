@@ -23,6 +23,6 @@ Welcome to my curated repository of cybersecurity projects and resources, built 
 ## 🤝 Let's Connect!
 Open to mentorship, collaboration, and new opportunities.
 
-- 💼 [LinkedIn]()  
-- 🐙 [GitHub]()  
+- 💼 [LinkedIn](www.linkedin.com/in/victoria-nyamekye)  
+- 🐙 [GitHub](https://github.com/victoria-nyamekye/victoria-nyamekye.git)  
 - ✉️ [Email](mailto:victorianyamekye98@gmail.com)
