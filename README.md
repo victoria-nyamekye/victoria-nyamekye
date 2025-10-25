@@ -11,6 +11,7 @@ Welcome to my curated repository of cybersecurity projects and resources, built 
 - **[Phishing Email Analysis and Response]()**
 - **[Vulnerability Assessment
 and Patch Automation]()**
+- **[Investigation of Malicious IP Addresses and Mitigation Strategies]()**
 - **[Cyber Threat Intelligence
 and Malware Detection]()**
 - **[Passive Reconnaissance for Threat
